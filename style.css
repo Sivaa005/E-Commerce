@@ -36,14 +36,14 @@
     --weight-600: 600;
     --weight-700: 700;
   
-    /**
+    /*
      * border-radius
      */
   
     --border-radius-md: 10px;
     --border-radius-sm: 5px;
   
-    /**
+    /*
      * transition 
      */
   
@@ -55,9 +55,9 @@
   
   
   
-  /*-----------------------------------*\
+  /*
     #RESET
-  \*-----------------------------------*/
+ */
   
   *, *::before, *::after {
     margin: 0;
@@ -95,7 +95,7 @@
   
   body { background: var(--white); }
   
-  /**
+  /*
    * scrollbar style
    */
   
